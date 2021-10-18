@@ -53,3 +53,4 @@
   - [LinkedIn](https://www.linkedin.com/in/hyunsoo-ha-872aaa134/)
   - [Email](mailto:dhy03196@naver.com)
   - [Instagram](https://www.instagram.com/hhyun0115)
+  - [Tech-Blog](https://cryptosalamander.tistory.com)
