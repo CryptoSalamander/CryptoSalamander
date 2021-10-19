@@ -1,16 +1,48 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HyunsooHA&fontSize=70&animation=twinkling)
 
-<!--
-**CryptoSalamander/CryptoSalamander** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Git Status
 
-Here are some ideas to get you started:
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCryptoSalamander&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/CryptoSalamander)
+[![Github Profile](https://github-readme-stats.vercel.app/api?username=CryptoSalamander)](https://github.com/CryptoSalamander)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoSalamander&layout=compact&hide=Visual%20Basic)](https://github.com/CryptoSalamander)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=CryptoSalamander&theme=chalk&row=1&column=5)](https://github.com/CryptoSalamander)  
+
+## Education
+  - (2015.03 ~  2019.08) Bachelor's degree in Soongsil University, Seoul, KR (Dept. of Software)
+            Undergraduate fellowship
+            - Admission with the highest distinction
+            - Full tuition (granted for full semesters)
+            
+  - (2018.08 ~ 2018.12) Research Exchange Student in Purdue University, IN, USA (CNIT)
+  - (2019.10 ~ 2020.03) Trainee of 4th Industrial Talent Training Program, ETRI, KR
+  - (2020.03 ~ 2022.02) Master's degree in Soongsil University, Seoul, KR (Dept. of Software Convergence)
+  - (2020.05 ~ 2020.12) Final Certifier of 11'th SW Maestro, IITP, KR
+            - I got certification from the secretary of the Minister of Science and ICT, Korea. (TOP 15)
+
+
+## Research Area
+  - DeepFake Detection
+  - Domain-Specific Language Modeling (BERT)
+  - Pneumonia Detection (Kaggle 21th of 1499 Teams)
+  - Smart Factory Infrastructure with Kubernetes
+
+## Tech Set
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Go-11B48A?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp 
+  <br>
+  
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white"/></a>&nbsp 
+</p>
+   
+## Contacts
+  - [LinkedIn](https://www.linkedin.com/in/hyunsoo-ha-872aaa134/)
+  - [Email](mailto:tony9402@naver.com)
