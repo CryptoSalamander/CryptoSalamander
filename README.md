@@ -10,7 +10,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CryptoSalamander&theme=chalk&row=1&column=5)](https://github.com/CryptoSalamander)  
 
-[![status](https://github-readme-streak-stats.herokuapp.com/?user=CryptoSalamander)]
+[![status](https://github-readme-streak-stats.herokuapp.com/?user=CryptoSalamander)](https://github.com/CryptoSalamander)
 
 ## Education
   - (2015.03 ~  2019.08) Bachelor's degree in Soongsil University, Seoul, KR (Dept. of Software)  
