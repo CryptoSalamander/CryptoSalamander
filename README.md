@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyunsoo%20Luke%20Ha&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Enthusiast%20of%20Deep%20Learning!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1e3f62&height=200&section=header&text=Hyunsoo%20Luke%20Ha&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enthusiast%20of%20Deep%20Learning!&descAlignY=51&descAlign=62)
 
 ## Git Status
 
@@ -29,6 +29,10 @@
   - Pneumonia Detection (Kaggle 21th of 1499 Teams)
   - Smart Factory Infrastructure with Kubernetes
 
+## Contribution
+  - [Nvidia TensorRT](https://github.com/NVIDIA/TensorRT)
+  - [Iterative Stratification](https://github.com/trent-b/iterative-stratification)
+
 ## Tech Set
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
@@ -47,4 +51,4 @@
    
 ## Contacts
   - [LinkedIn](https://www.linkedin.com/in/hyunsoo-ha-872aaa134/)
-  - [Email](mailto:tony9402@naver.com)
+  - [Email](mailto:dhy03196@naver.com)
