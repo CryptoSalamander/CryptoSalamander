@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HyunsooHA&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyunsoo%20Luke%20Ha&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Enthusiast%20of%20Deep%20Learning!&descAlignY=51&descAlign=62)
 
 ## Git Status
 
