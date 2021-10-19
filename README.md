@@ -11,15 +11,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=CryptoSalamander&theme=chalk&row=1&column=5)](https://github.com/CryptoSalamander)  
 
 ## Education
-  - (2015.03 ~  2019.08) Bachelor's degree in Soongsil University, Seoul, KR (Dept. of Software)
-            Undergraduate fellowship
-            - Admission with the highest distinction
+  - (2015.03 ~  2019.08) Bachelor's degree in Soongsil University, Seoul, KR (Dept. of Software)  
+            Undergraduate fellowship  
+            - Admission with the highest distinction  
             - Full tuition (granted for full semesters)
             
   - (2018.08 ~ 2018.12) Research Exchange Student in Purdue University, IN, USA (CNIT)
   - (2019.10 ~ 2020.03) Trainee of 4th Industrial Talent Training Program, ETRI, KR
   - (2020.03 ~ 2022.02) Master's degree in Soongsil University, Seoul, KR (Dept. of Software Convergence)
-  - (2020.05 ~ 2020.12) Final Certifier of 11'th SW Maestro, IITP, KR
+  - (2020.05 ~ 2020.12) Final Certifier of 11'th SW Maestro, IITP, KR  
             - I got certification from the secretary of the Minister of Science and ICT, Korea. (TOP 15)
 
 
