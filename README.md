@@ -32,7 +32,7 @@
   - Smart Factory Infrastructure with Kubernetes
 
 ## Contribution
-  - [Nvidia TensorRT](https://github.com/NVIDIA/TensorRT)
+  - [NVIDIA TensorRT](https://github.com/NVIDIA/TensorRT)
   - [Iterative Stratification](https://github.com/trent-b/iterative-stratification)
 
 ## Tech Set
