@@ -26,6 +26,7 @@
 
 
 ## Research Area
+  - OCR - Especially Scene Text Recognition(STR) - (Current)
   - DeepFake Detection
   - Domain-Specific Language Modeling (BERT)
   - Pneumonia Detection (Kaggle 21th of 1499 Teams)
