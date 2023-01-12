@@ -4,9 +4,9 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCryptoSalamander&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/CryptoSalamander)
 
-[![Github Profile](https://github-readme-stats.vercel.app/api?username=CryptoSalamander)](https://github.com/CryptoSalamander)
+[![Github Profile](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=CryptoSalamander)](https://github.com/CryptoSalamander)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoSalamander&layout=compact&hide=Visual%20Basic)](https://github.com/CryptoSalamander)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CryptoSalamander&layout=compact&hide=Visual%20Basic)](https://github.com/CryptoSalamander)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CryptoSalamander&theme=chalk&row=1&column=5)](https://github.com/CryptoSalamander)  
 
